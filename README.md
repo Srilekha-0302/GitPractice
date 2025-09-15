@@ -1,6 +1,7 @@
 # Project2
 
 A sample project for practicing Git.
+Created By Srilekha
 
 ## Getting Started
 
