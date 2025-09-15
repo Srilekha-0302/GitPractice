@@ -1,4 +1,5 @@
-function random(){
+/* function random(){
     windows.write("Hello window");
 }
-document.getElementsByTagName('p')[0].onclick = random;
+document.getElementsByTagName('p')[0].onclick = random; */
+//add new form
